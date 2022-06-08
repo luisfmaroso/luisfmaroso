@@ -1,8 +1,7 @@
 # Hey, I'm Luís!
 
-
 engineering @ <a href=https://stara.com.br/en>Stara</a>
 
-electrical engineer 🎓<a href=https://www.upf.br>Stara</a>
+electrical engineer bachelor 🎓 <a href=https://www.upf.br>UPF</a>
 
-trying to find my place in the engineering world!
+GitHub created in order to post some projects and notebooks!
