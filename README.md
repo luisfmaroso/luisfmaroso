@@ -4,4 +4,4 @@
 
 📚 electrical engineer bachelor @ <a href=https://www.upf.br>UPF</a> (🎓 july 2022)
 
-📚 msc. applied computing @ <a href=https://www.upf.br>UPF</a> (🎓 july 2025)
+📚 MSc applied computing @ <a href=https://www.upf.br>UPF</a> (🎓 july 2025)
