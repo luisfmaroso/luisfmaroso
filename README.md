@@ -6,4 +6,4 @@
 
 📚 MSc applied computing @ <a href=https://www.upf.br>UPF</a> (🎓 august 2025)
 
-Here you can find a couple of stuff that I did in university and some personal projects (some of them aren't really finished but I uploaded anyways).
+Here you can find a couple of stuff that I did at university and some personal projects (some of them aren't really finished but I uploaded anyways).
