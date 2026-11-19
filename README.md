@@ -2,9 +2,9 @@
 
 embedded software engineer
 
-electrical engineer bachelor @ <a href=https://www.upf.br>UPF</a> (2022)
+B.S. electrical engineer @ <a href=https://www.upf.br>UPF</a> (2022)
 
-MSc applied computing @ <a href=https://www.upf.br>UPF</a> (2025)
+M.S. applied computing @ <a href=https://www.upf.br>UPF</a> (2025)
 
 languages: C • C++ • C# • Python
 
